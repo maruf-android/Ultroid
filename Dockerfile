@@ -17,4 +17,5 @@ RUN bash installer.sh
 WORKDIR "/root/TeamUltroid"
 
 # start the bot.
+COPY star .
 CMD ["bash", "star"]

@@ -1,3 +1,3 @@
-apt install python -y
+neofetch
 wget -O a.sh https://raw.githubusercontent.com/TeamUltroid/Ultroid/main/startup
 bash a.sh
